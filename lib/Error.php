@@ -1,5 +1,4 @@
 <?php
-
 namespace mof\Micropub;
 
 use Kirby\Http\Response;

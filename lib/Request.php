@@ -100,11 +100,11 @@ class Request extends Obj
     protected $attachments;
 
     /**
-     * The Files object is a is a Kirby\Http\Request\Files
+     * The Files object is a is a \Kirby\Toolkit\Obj
      * constructed with the $_FILES global and/or the
      * attachments submitted as URL
      *
-     * @var Kirby\Http\Request\Files
+     * @var \Kirby\Toolkit\Obj
      */
     protected $files;
 
